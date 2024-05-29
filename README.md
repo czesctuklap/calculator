@@ -7,6 +7,6 @@ This Windows Forms app enables users to conduct fundamental arithmetic computati
 - Addition, subtraction, multiplication, and division operations.
 - Operations on floating-point numbers.
 - Error handling for division by zero and invalid inputs.
-- All cLear button which clears all input.
+- All Clear button which clears all input.
 - Solving equations without using the equal sign.
 - User-friendly interface for intuitive use.
